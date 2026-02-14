@@ -62,7 +62,16 @@ My goal is to contribute meaningfully to the advancement of my country and socie
 
 ---
 
+## 📊 Languages Used in My Repositories
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HabibaMahmoud2005&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HabibaMahmoud2005&theme=github_dark)
+
+---
+
 ## 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=HabibaMahmoud2005&theme=dark&hide_border=false)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=HabibaMahmoud2005&theme=dark&hide_border=false)
@@ -70,5 +79,3 @@ My goal is to contribute meaningfully to the advancement of my country and socie
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HabibaMahmoud2005&theme=dark&hide_border=false&layout=compact)
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=HabibaMahmoud2005&icon=0&color=0)](https://visitcount.itsvg.in)
