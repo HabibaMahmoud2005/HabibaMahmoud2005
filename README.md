@@ -1,13 +1,25 @@
-# 💫 About Me
-I am currently pursuing a degree in **Computer Engineering**, driven by a strong passion for **hardware systems, low-level computing, and artificial intelligence**.  
-My goal is to contribute meaningfully to the advancement of my country and society through science, engineering, and innovation. I firmly believe that with dedication, continuous learning, and hard work, technology can be a powerful driver of positive change.
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Embedded+Systems+Enthusiast;Backend+Developer;Hardware+%7C+AI+%7C+Low-Level+Systems" />
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+# 👋 About Me
 
-### 🔹 Programming Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+🎓 **Computer Engineering Student at Cairo University**  
+⚙️ **Embedded Systems & Backend Instructor at IEEE EMBS CUSB**  
+🏎️ **Software Team Member of Cairo University Racing Team (CURT)**  
+
+I am passionate about **low-level computing, embedded systems, and intelligent systems**.  
+My goal is to leverage **engineering and technology to build impactful solutions** and contribute to scientific and technological advancement.
+
+---
+
+# 🛠 Technical Skills
+
+## 💻 Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -15,7 +27,7 @@ My goal is to contribute meaningfully to the advancement of my country and socie
 
 ---
 
-### 🔹 Backend & Databases
+## ⚙️ Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -25,19 +37,19 @@ My goal is to contribute meaningfully to the advancement of my country and socie
 
 ---
 
-### 🔹 Frontend
+## 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-### 🔹 Scientific & Data Computing
+## 🔬 Scientific Computing
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 ---
 
-### 🔹 Hardware & Digital Design
+## 🔧 Hardware & Digital Design
 ![Verilog](https://img.shields.io/badge/Verilog-000000?style=for-the-badge)
 ![VHDL](https://img.shields.io/badge/VHDL-000000?style=for-the-badge)
 ![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge)
@@ -45,10 +57,10 @@ My goal is to contribute meaningfully to the advancement of my country and socie
 
 ---
 
-## 🧰 Tools & Technologies
+# 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Quartus](https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge)
 ![ModelSim](https://img.shields.io/badge/ModelSim-0071C5?style=for-the-badge)
 ![Multisim](https://img.shields.io/badge/Multisim-0052CC?style=for-the-badge)
@@ -56,26 +68,42 @@ My goal is to contribute meaningfully to the advancement of my country and socie
 ---
 
 ## 🚀 Currently Learning & Improving
+
 - Embedded Systems
 - Backend Development
 - Problem Solving and Core Software Engineering Concepts
 
 ---
 
-## 📊 Languages Used in My Repositories
+# 📊 GitHub Statistics
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HabibaMahmoud2005&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HabibaMahmoud2005&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HabibaMahmoud2005&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HabibaMahmoud2005&theme=github_dark)
+---
+
+# 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabibaMahmoud2005&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 📈 Contribution Graph
 
-![](https://github-readme-stats.vercel.app/api?username=HabibaMahmoud2005&theme=dark&hide_border=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=HabibaMahmoud2005&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HabibaMahmoud2005&theme=dark&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HabibaMahmoud2005&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
+
+# 🌍 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
