@@ -90,14 +90,6 @@ My goal is to leverage **engineering and technology to build impactful solutions
 
 ---
 
-# 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabibaMahmoud2005&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # Contribution Graph
 
 <p align="center">
