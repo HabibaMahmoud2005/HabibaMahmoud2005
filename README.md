@@ -85,7 +85,6 @@ My goal is to leverage **engineering and technology to build impactful solutions
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HabibaMahmoud2005&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HabibaMahmoud2005&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
