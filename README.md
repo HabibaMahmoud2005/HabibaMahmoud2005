@@ -91,8 +91,4 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HabibaMahmoud2005&layout=compact&theme=tokyonight&hide_border=true&title_color=FF2A85" alt="Top Languages" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/HabibaMahmoud2005?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config_timezone=Africa%2FCairo" alt="Metrics" width="80%" />
-</p>
-
 ---
