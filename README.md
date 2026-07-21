@@ -40,7 +40,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
- <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&   logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge" alt="Assembly" />
@@ -84,7 +84,7 @@
 
 ---
 
-## 📈 Coding Stats
+## Coding Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HabibaMahmoud2005&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF2A85&icon_color=FF2A85" alt="Habiba's GitHub Stats" width="48%" />
