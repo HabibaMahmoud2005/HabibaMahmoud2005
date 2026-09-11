@@ -14,34 +14,31 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      # Card 1: compact stats card (header + activity + community + repositories)
+      - name: Generate stats card
+        uses: lowlighter/metrics@latest
         with:
-          # Personal Access Token stored as a repo secret — see setup notes below.
-          # Needs scopes: public_repo (or repo), read:user
           token: ${{ secrets.METRICS_TOKEN }}
-
           user: HabibaMahmoud2005
           filename: github-metrics.svg
           template: classic
           base: header, activity, community, repositories
           config_timezone: Africa/Cairo
 
-          # Top languages card (replaces the Vercel top-langs card)
+      # Card 2: languages-only card, with clear percentage breakdown
+      - name: Generate languages card
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: HabibaMahmoud2005
+          filename: github-languages.svg
+          template: classic
+          base: ""
+          config_timezone: Africa/Cairo
+
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_limit: 8
-
-          # Coding habits / recent activity (replaces streak-stats card)
-          plugin_habits: yes
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-
-          # Contribution calendar (replaces activity-graph card)
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
-          # Achievements badges (replaces trophy card)
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentages
