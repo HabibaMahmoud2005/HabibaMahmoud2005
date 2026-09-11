@@ -2,7 +2,7 @@
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=FF2A85&center=true&vCenter=true&width=900&lines=Backend+Developer+%7C+Computer+Engineering+Student+at+Cairo+University;" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=FF2A85&center=true&vCenter=true&width=900&lines=Backend+Developer+%7C+Computer+Engineering+Student+at+Cairo+University;Embedded+Systems+%26+Low-Level+Computing+Enthusiast;Head+of+Software+%40+Cairo+University+Racing+Team" />
 </p>
 
 <!-- Tech Aesthetic Animation -->
@@ -14,6 +14,7 @@
   <a href="https://github.com/HabibaMahmoud2005"><img src="https://img.shields.io/badge/GitHub-HabibaMahmoud2005-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/habiba-mahmoud-10aa2a2a2/"><img src="https://img.shields.io/badge/LinkedIn-Habiba%20Mahmoud-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:habibamahmoudaziz@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=HabibaMahmoud2005&style=for-the-badge&color=FF2A85&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
@@ -23,6 +24,8 @@
 - **Computer Engineering Student** at **Cairo University**.
 - **Head of Software Team** at Cairo University Racing Team (**CURT**).
 - Passionate about **low-level computing, embedded systems, hardware architecture, and scalable backend services**.
+- 🔭 Currently building backend services with **FastAPI** and diving deeper into **RTOS-based embedded design**.
+- ⚡ Fun fact: I've contributed CloneCD support to **ScummVM**, a 20+ year old open-source game engine.
 
 ---
 
@@ -86,9 +89,27 @@
 
 ## Coding Stats
 
+<!--
+  Generated once every 12h by .github/workflows/metrics.yml (lowlighter/metrics)
+  and committed directly into this repo as a static SVG — no live API calls on
+  page load, so it never breaks from rate limiting.
+-->
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HabibaMahmoud2005&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF2A85&icon_color=FF2A85" alt="Habiba's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HabibaMahmoud2005&layout=compact&theme=tokyonight&hide_border=true&title_color=FF2A85" alt="Top Languages" width="48%" />
+  <img src="./github-metrics.svg" alt="Habiba's GitHub Metrics" width="100%" />
 </p>
 
 ---
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HabibaMahmoud2005/HabibaMahmoud2005/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="90%" />
+</p>
+
+> Powered by `.github/workflows/snake.yml` — a scheduled GitHub Action, not a live API call.
+
+---
+
+<p align="center">
+  <i>"Simplicity is the soul of efficiency." — Austin Freeman</i>
+</p>
