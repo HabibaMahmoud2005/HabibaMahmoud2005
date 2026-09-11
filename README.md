@@ -24,8 +24,6 @@
 - **Computer Engineering Student** at **Cairo University**.
 - **Head of Software Team** at Cairo University Racing Team (**CURT**).
 - Passionate about **low-level computing, embedded systems, hardware architecture, and scalable backend services**.
-- 🔭 Currently building backend services with **FastAPI** and diving deeper into **RTOS-based embedded design**.
-- ⚡ Fun fact: I've contributed CloneCD support to **ScummVM**, a 20+ year old open-source game engine.
 
 ---
 
@@ -91,11 +89,12 @@
 
 <!--
   Generated once every 12h by .github/workflows/metrics.yml (lowlighter/metrics)
-  and committed directly into this repo as a static SVG — no live API calls on
+  and committed directly into this repo as static SVGs — no live API calls on
   page load, so it never breaks from rate limiting.
 -->
 <p align="center">
-  <img src="./github-metrics.svg" alt="Habiba's GitHub Metrics" width="100%" />
+  <img src="./github-metrics.svg" alt="Habiba's GitHub Stats" width="48%" />
+  <img src="./github-languages.svg" alt="Top Languages" width="48%" />
 </p>
 
 ---
